@@ -233,15 +233,21 @@ npm run client   # Frontend on http://localhost:5173
 
 ## Screenshots
 
-> Replace these placeholders with actual screenshots after running the app.
+### Dashboard
 
-| Dashboard | Graph Explorer |
-|---|---|
-| ![Dashboard](./docs/screenshots/dashboard.png) | ![Graph Explorer](./docs/screenshots/graph-explorer.png) |
+![Dashboard](docs/screenshots/Wexa-1.png)
 
-| Developer Detail | Collaboration Explorer |
-|---|---|
-| ![Developer Detail](./docs/screenshots/developer-detail.png) | ![Collaboration](./docs/screenshots/collaboration.png) |
+### Graph Explorer
+
+![Graph Explorer](docs/screenshots/Wexa-2.png)
+
+### Developer Detail
+
+![Developer Detail](docs/screenshots/Wexa-3.png)
+
+### Collaboration Explorer
+
+![Collaboration Explorer](docs/screenshots/Wexa-4.png)
 
 ## Future Improvements
 
